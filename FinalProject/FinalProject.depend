@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1419681001 source:c:\users\ray\desktop\finalproject\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.c"
+	"kb_input2.c"
+
+1231335102 c:\users\ray\desktop\finalproject\console_draw2.c
+	"console_draw2.h"
+
+1388781506 c:\users\ray\desktop\finalproject\console_draw2.h
+	<windows.h>
+
+1197485698 c:\users\ray\desktop\finalproject\kb_input2.c
+	"kb_input2.h"
+
+1197486290 c:\users\ray\desktop\finalproject\kb_input2.h
+	<windows.h>
+
+1419681177 source:d:\finalproject\finalproject\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.c"
+	"kb_input2.c"
+
+1231335102 d:\finalproject\finalproject\console_draw2.c
+	"console_draw2.h"
+
+1388781506 d:\finalproject\finalproject\console_draw2.h
+	<windows.h>
+
+1197485698 d:\finalproject\finalproject\kb_input2.c
+	"kb_input2.h"
+
+1197486290 d:\finalproject\finalproject\kb_input2.h
+	<windows.h>
+
+1419694207 source:d:\code\finalproject\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<mmsystem.h>
+	"console_draw2.c"
+	"kb_input2.c"
+
+1231335102 d:\code\finalproject\console_draw2.c
+	"console_draw2.h"
+
+1388781506 d:\code\finalproject\console_draw2.h
+	<windows.h>
+
+1197485698 d:\code\finalproject\kb_input2.c
+	"kb_input2.h"
+
+1197486290 d:\code\finalproject\kb_input2.h
+	<windows.h>
+
